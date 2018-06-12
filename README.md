@@ -9,3 +9,6 @@ für ADP Onboarding Training
 - CloudFoundry
 - Elastic Stack
 - Prometheus / Grafana
+
+# Hosting
+Jenkins, ELK und Prometheus + Grafana sind auf DigitalOcean gehostet.
