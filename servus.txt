@@ -1,7 +1,8 @@
-Hallo Stuttgart
+1 Hallo Stuttgart
 
-Hallo Nürnberg
+2 Hallo Nürnberg
 
-Hallo München
+3 Hallo Regensburg
+4 Hallo München
 
-Hallo Kiel
+5 Hallo Kiel
